@@ -60,6 +60,4 @@ function playGame(){
 }
 
 playGame();
-console.log("Final score\nHuman: "+humanScore+"Computer: "+computerScore
-    
-)
+console.log("Final score\nHuman: "+humanScore+"Computer: "+computerScore);
